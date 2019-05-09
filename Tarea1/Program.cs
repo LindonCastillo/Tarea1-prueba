@@ -11,6 +11,8 @@ namespace Tarea1
         static void Main(string[] args)
         {
             Console.Out.WriteLine("Hola mundo");
+            Console.Out.WriteLine("Hola mundo2");
+
         }
     }
 }
